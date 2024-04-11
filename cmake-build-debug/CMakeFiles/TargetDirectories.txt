@@ -1,0 +1,4 @@
+/home/jerry/COMP4985/cmake-build-debug/CMakeFiles/client.dir
+/home/jerry/COMP4985/cmake-build-debug/CMakeFiles/format.dir
+/home/jerry/COMP4985/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jerry/COMP4985/cmake-build-debug/CMakeFiles/rebuild_cache.dir
